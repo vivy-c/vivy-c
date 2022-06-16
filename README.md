@@ -13,12 +13,12 @@
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
 <!--     &nbsp;&nbsp;&nbsp;&nbsp;∞ I’m currently working on Fullstack developer Role </br> -->
-    &emsp;∞ I’m currently working on Fullstack developer Role </br>
-    &emsp;∞ I’m currently learning Javascript, Go and anyother programming languages </br>
+    &emsp;∞ I’m currently working on Fullstack Developer Role. </br>
+    &emsp;∞ I’m currently learning Javascript, Go and other programming languages.</br>
     &emsp;∞ I’m looking to collaborate on Website Development. </br>
     &emsp;∞ I’m looking for help with master of programming. xoxo </br>
     &emsp;∞ Ask me about anything.</br>
-    &emsp;∞ How to reach me: <a href="mailto:vivycahyani@gmail.com">Email me!</a>  </br>
+    &emsp;∞ Reach me: <a href="mailto:vivycahyani@gmail.com">Email me!</a>  </br>
     &emsp;∞ Pronouns: She/Her </br>
     &emsp;∞ Fun fact: I love cats! </br>
 </details>
