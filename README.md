@@ -25,10 +25,10 @@
 
 <h3> Let's connect!</h3>
 <p>
-     <a href="https://vivy-c.github.io/"><img alt="Website" src="https://img.shields.io/website?logo=google&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=vivy-c&url=http%3A%2F%2Fvivy-c.github.io"></a>
-    <a href="https://twitter.com/vivyyyyc"><img alt="Website" src="https://img.shields.io/website?label=Twitter&logo=twitter&logoColor=%23fff&style=for-the-badge&up_color=%23333&url=https%3A%2F%2Ftwitter.com%2Fvivyyyyc"> </a>
-    <a href="https://www.linkedin.com/in/vivy-c/"><img alt="Website" src="https://img.shields.io/website?down_color=%23333&down_message=UP&label=Linkedin&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=UP&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvivy-c%2F"></a>
-    <a href="https://github.com/vivy-c"><img alt="Website" src="https://img.shields.io/website?down_color=%23333&down_message=UP&label=github&logo=github&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=UP&url=https%3A%2F%2Fgithub.com%2Fvivy-c%2F"></a>
+     <a href="https://vivy-c.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/website?logo=google&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=vivy-c&url=http%3A%2F%2Fvivy-c.github.io"></a>
+    <a href="https://twitter.com/vivyyyyc" target="_blank"><img alt="Website" src="https://img.shields.io/website?label=Twitter&logo=twitter&logoColor=%23fff&style=for-the-badge&up_color=%23333&url=https%3A%2F%2Ftwitter.com%2Fvivyyyyc"> </a>
+    <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img alt="Website" src="https://img.shields.io/website?down_color=%23333&down_message=UP&label=Linkedin&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=UP&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvivy-c%2F"></a>
+    <a href="https://github.com/vivy-c" target="_blank"><img alt="Website" src="https://img.shields.io/website?down_color=%23333&down_message=UP&label=github&logo=github&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=UP&url=https%3A%2F%2Fgithub.com%2Fvivy-c%2F"></a>
      
     
   
