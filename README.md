@@ -1,6 +1,7 @@
 <h2 align="center">What's up there 👋, I'm Vivy!</h2>
 </hr>
 
+## Let's connect!
 <details>
   <summary><strong>🌱 What I'm Up To</strong></summary>
   &emsp;• Fullstack Developer with experience in NextJS, Python, Go & ERP systems. </br>
@@ -10,16 +11,17 @@
   &emsp;• Pronouns: She/Her </br>
   &emsp;• Fun fact: Cat enthusiast & occasional UI tinkerer! 🐱 </br>
 </details>
-
-## Let's connect!
-<p>
-     <a href="https://vivy-c.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/website?logo=google&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=vivy-c&url=http%3A%2F%2Fvivy-c.github.io"></a>
-    <a href="https://twitter.com/vivyyyyc" target="_blank"><img alt="Website" src="https://img.shields.io/website?label=Twitter&logo=twitter&logoColor=%23fff&style=for-the-badge&up_color=%23333&url=https%3A%2F%2Ftwitter.com%2Fvivyyyyc"> </a>
-    <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img alt="Website" src="https://img.shields.io/website?down_color=%23333&down_message=UP&label=Linkedin&logo=linkedin&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=UP&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvivy-c%2F"></a>
-    <a href="https://github.com/vivy-c" target="_blank"><img alt="Website" src="https://img.shields.io/website?down_color=%23333&down_message=UP&label=github&logo=github&logoColor=%23fff&style=for-the-badge&up_color=%23333&up_message=UP&url=https%3A%2F%2Fgithub.com%2Fvivy-c%2F"></a>
-     
-    
-  
+<p></p>
+<p align="center">
+  <!-- <a href="https://vivy-c.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="Website" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/vivy-c" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> -->
+  <!-- <a href="https://vivy-c.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="https://github.com/vivy-c" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"></a> -->
+    <a href="https://vivy-c.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=black"></a>
+  <a href="https://github.com/vivy-c" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logoColor=black"></a>
 </p>
 
 <picture>
@@ -28,7 +30,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/vivy-c/vivy-c/output/github-snake.svg" />
 </picture>
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ##### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,9 +50,9 @@
 #### Design Tools
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=vivy-c&theme=aura&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vivy-c&theme=aura&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivy-c&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
