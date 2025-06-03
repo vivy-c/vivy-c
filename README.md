@@ -13,12 +13,6 @@
 </details>
 <p></p>
 <p align="center">
-  <!-- <a href="https://vivy-c.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="Website" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/vivy-c" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> -->
-  <!-- <a href="https://vivy-c.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-  <a href="https://github.com/vivy-c" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"></a> -->
     <a href="https://vivy-c.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logoColor=black"></a>
     <a href="https://www.linkedin.com/in/vivy-c/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=black"></a>
     <a href="https://github.com/vivy-c" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logoColor=black"></a>
@@ -30,12 +24,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/vivy-c/vivy-c/output/github-snake.svg" />
 </picture>
 
-
-<h2 align="center">GitHub Stats:</h2>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vivy-c&theme=gotham&hide_border=false&card_width=1000" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivy-c&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vivy-c&theme=gotham&hide_border=true&card_width=1000" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivy-c&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=1000" alt="Top Languages" />
 </p>
 
 
