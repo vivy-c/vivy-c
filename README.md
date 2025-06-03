@@ -1,5 +1,5 @@
-<h2 align="center">What's up there 👋, I'm Vivy!</h2>
 </hr>
+<h1 align="center">What's up there, I'm Vivy! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## Let's connect!
 <details>
@@ -52,5 +52,6 @@
 #### Design Tools
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white)
 
+<p></p>
 
-
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you!;&left=true&width=380&height=45&color=00FF00&font=bold) -->
