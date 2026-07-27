@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vivy-c&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivy-c&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivy-c&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
 </p>
 
 
